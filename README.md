@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry153fish&show_icons=true&theme=dracula&count_private=true)
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry153fish&show_icons=true&theme=solarized-dark&count_private=true)
