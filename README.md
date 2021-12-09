@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![Visitor](https://profile-counter.glitch.me/jerry153fish/count.svg)
 
 <!--
 **jerry153fish/jerry153fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry153fish&show_icons=true&theme=solarized-dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry153fish&layout=compact&theme=solarized-dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry153fish&layout=compact&theme=solarized-dark) -->
