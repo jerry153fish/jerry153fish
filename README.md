@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry153fish&show_icons=true&theme=solarized-dark&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry153fish&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry153fish&layout=compact&theme=solarized-dark)
