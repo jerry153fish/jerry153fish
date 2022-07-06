@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋 I'm Jerry & I ❤️ code.
 
 ![Visitor](https://profile-counter.glitch.me/jerry153fish/count.svg)
 
